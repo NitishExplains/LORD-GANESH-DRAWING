@@ -19,7 +19,8 @@ Run the Python script
 python LORD-GANESH-DRAWING.py
 
 📸 Preview
-(Aap ek screenshot ya GIF add karna of the Turtle drawing 🐢✨)
+<img width="100" height="100" alt="LORD-GANESH-DRAWING" src="https://github.com/user-attachments/assets/ff753e9c-f7fc-416d-a554-7680bb207970" />
+Turtle drawing 🐢✨)
 
 🙏 Inspiration
 Lord Ganesh is known as the remover of obstacles and the god of wisdom.
