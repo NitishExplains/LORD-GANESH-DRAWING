@@ -1,7 +1,7 @@
 # Shree Ganeshay Namah 🙏
 # =====================================
 # Author: Nitish Singh
-# GitHub: https://github.com/your-username
+# GitHub: https://github.com/Nitish-Xingh
 
 from turtle import *
 import random
@@ -362,3 +362,4 @@ def main():
 # Run the program
 if __name__ == "__main__":
     main()
+
