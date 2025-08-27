@@ -10,13 +10,13 @@
 
 🚀 How to Run
 Clone this repository
-git clone https://github.com/your-username/LORD-GANESH-DRAWING.git
+git clone https://github.com/NitishExplains/LORD-GANESH-DRAWING.git
 
 Navigate to the project folder
 cd LORD-GANESH-DRAWING
 
 Run the Python script
-python ganesh_drawing.py
+python LORD-GANESH-DRAWING.py
 
 📸 Preview
 (Aap ek screenshot ya GIF add karna of the Turtle drawing 🐢✨)
